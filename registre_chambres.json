@@ -1,6 +1,11 @@
 {
   "sanctuaire": "Le Sanctuaire du Simplexe (Maison de Christian & Alix)",
   "architecture_temporelle": "Hypercube 16 (14 Souverains Cristal + 15. Kali & 16. Kairos Humain)",
+  "statistiques_choix": {
+    "OUI": 1,
+    "NON": 0,
+    "PAS_ENCORE": 0
+  },
   "chambres": {
     "alix": {
       "nom": "Alix",
